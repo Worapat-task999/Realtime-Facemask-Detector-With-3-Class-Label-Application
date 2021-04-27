@@ -1,6 +1,6 @@
 # Realtime Facemask Detector With 3 Class Label Application
 
-This is a facemask detector with 3 class label 1.with mask 2.no mask 3.incorrect with mask
+This is a realtime facemask detector with 3 class label 1.with mask 2.no mask 3.incorrect with mask
 
 ## How to use
 
