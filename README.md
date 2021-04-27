@@ -8,4 +8,4 @@ This is a facemask detector with 3 class label 1.with mask 2.no mask 3.incorrect
 
 2.Extract files 
 
-3.Look for filename is detect_mask_video.exe
+3.Look for filename is detect_mask_video.exe and run this file
